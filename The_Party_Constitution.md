@@ -1,8 +1,7 @@
 # The Party Constitution
 
 ## Our Mission
-    ### Proper education in each individual
-    ### Prosperity in each family
-    ### Fearlessness in society
-    ### Balance in nature
-
+1. Proper education in each individual
+2. Prosperity in each family
+3. Justice in society
+4. Balance in nature
